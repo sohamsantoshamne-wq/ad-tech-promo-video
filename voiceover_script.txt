@@ -1,0 +1,25 @@
+AD TECH PROMO — VOICEOVER SCRIPT
+(7 lines, one per scene)
+
+Scene 1:
+Business is moving faster than ever.
+
+Scene 2:
+Manual tasks, repetitive workflows, and growing workloads are slowing you down.
+
+Scene 3:
+What if your business could run with AI?
+
+Scene 4:
+Meet A.D. Tech, your partner in intelligent automation.
+
+Scene 5:
+From custom AI agents and workflow automation, to scalable data solutions, we build systems that transform how you work.
+
+Scene 6:
+Work smarter, move faster, scale effortlessly!
+
+Scene 7:
+Make your business AI-first, with A.D. Tech.
+
+Note: Keep "A.D. Tech" written with the dots — that forces any TTS engine to spell out the letters A and D instead of reading it as the word "ad".
